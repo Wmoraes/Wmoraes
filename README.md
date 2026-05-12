@@ -2,12 +2,6 @@
 
 <img src="./banner.png" width="100%" alt="Willian Moraes Banner" />
 
-<br>
-
-# Hey, I'm Willian 👋
-
-I build distributed systems, cloud-native platforms and intelligent workflows.
-
 </div>
 
 ---
