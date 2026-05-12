@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Willian Moraes Banner" />
+<img src="./banner.jpeg" width="100%" alt="Willian Moraes Banner" />
 
 <br>
 
