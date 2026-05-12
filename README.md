@@ -75,22 +75,6 @@ The kind of software people only notice when it fails.
 
 ---
 
-## 📦 Featured Projects
-
-### 🔹 event-driven-workflows
-Lightweight workflow orchestration engine for distributed environments.
-
-### 🔹 ai-agent-orchestrator
-Experiments around autonomous agents and AI-driven workflows.
-
-### 🔹 cloud-native-template
-Production-ready backend foundations using Kubernetes and observability.
-
-### 🔹 kafka-streams-examples
-Examples of scalable event streaming and asynchronous communication patterns.
-
----
-
 ## 📌 About this GitHub
 
 Most of the systems I built throughout my career are private enterprise platforms.
