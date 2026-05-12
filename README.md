@@ -1,25 +1,12 @@
 <div align="center">
 
-<img src="./banner.jpeg" width="100%" alt="Willian Moraes Banner" />
+<img src="./banner.png" width="100%" alt="Willian Moraes Banner" />
 
 <br>
 
 # Hey, I'm Willian 👋
 
-### Backend Engineer • Software Architect
-
-Building distributed systems, cloud-native platforms and intelligent workflows.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+I build distributed systems, cloud-native platforms and intelligent workflows.
 
 </div>
 
